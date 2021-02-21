@@ -1,6 +1,10 @@
 {
-  "dtWarga": [{
-      "id": 1,
-      "title": "hello"
-    }]
+  	"dtWarga": [
+  		{
+      		"id": 1,
+      		"nama": "Asep",
+      		"nik" : "1111111111",
+      		"kk" : "2222222222"
+    	}
+	]
 }
