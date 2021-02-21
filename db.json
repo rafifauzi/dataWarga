@@ -1,3 +1,6 @@
 {
-  "dtWarga": []
+  "dtWarga": [{
+      "id": 1,
+      "title": "hello"
+    }]
 }
